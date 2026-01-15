@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "email": "alla01@gmail.com",
+    "phone": null,
+    "password": "$2b$10$3eIt7VcJvSnFoe2YaoCWFuOgGx9al9uvU1N5x/t.ya8BdOuFXKxZC",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "created_at": "2026-01-13T21:36:47.334Z"
+  },
+  {
+    "id": "2",
+    "email": "alla02@gmail.com",
+    "phone": null,
+    "password": "$2b$10$tKMcyOI8QekYTUFY/agfW.BzDUCV/BHO1fF4B1xAzZlvwvj0iRIcG",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "created_at": "2026-01-13T21:45:07.937Z"
+  },
+  {
+    "id": "3",
+    "email": null,
+    "phone": "098319031",
+    "password": "$2b$10$B43oiDJ9vS4RW5uqusLmj.eos5/EWGsRGFrOZEoA7nMcW3FB00FfW",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "created_at": "2026-01-13T21:45:35.892Z"
+  },
+  {
+    "id": "4",
+    "email": null,
+    "phone": "098319032",
+    "password": "$2b$10$m0Udbct3nJRpIOiVLTjXVeycmddNebnJbA7JRk1h/i0FSnYBb9N/6",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "created_at": "2026-01-13T22:01:24.221Z"
+  },
+  {
+    "id": "8303f637-9f93-41d0-acc6-66dbe41374ad",
+    "email": "alla14@gmail.com",
+    "phone": null,
+    "password": "$2b$10$hZNEra8vfYxlzRupJpOSKuCAcwgAzM.VeQg3fER3nspeF3zZKrrlO",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "createdAt": "2026-01-14T13:49:48.445Z"
+  },
+  {
+    "id": "86fd4a41-b8ed-441a-8566-e490ca4e291c",
+    "email": "alla21@gmail.com",
+    "phone": null,
+    "password": "$2b$10$FC8Bx4sICyJbfPspf6bUyOcrQGWGA9tyMsDuAt2hcxIZtMG4JIJvy",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "createdAt": "2026-01-14T13:50:14.535Z"
+  },
+  {
+    "id": "f575569c-1b6d-42b9-b2be-1c9dbc3e5213",
+    "email": "alla15@gmail.com",
+    "phone": null,
+    "password": "$2b$10$NDBcBAor1bklJmA5gsUwKeUgbQyu/sUjcWdXX6AM85zw2CgDIFPrK",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "createdAt": "2026-01-14T13:55:07.591Z"
+  },
+  {
+    "id": "cd6f3f38-cf38-4f26-b29a-9e135b5e244b",
+    "email": "alla08@gmail.com",
+    "phone": null,
+    "password": "$2b$10$bBEH3KiQAQlpTRJK4MCCjuo6RcowJKO/g4v/iT0zxs6/XjujC.WjW",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "createdAt": "2026-01-15T09:14:04.599Z"
+  },
+  {
+    "id": "17ee8339-15f7-470c-b29d-7cde0dbc32a6",
+    "email": "alla19@gmail.com",
+    "phone": null,
+    "password": "$2b$10$D1Bge/xcJW0QUto9ITFUrOGuBIwC2SPub4E9GxR8PHWqT3cbNpr3m",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "createdAt": "2026-01-15T09:46:03.868Z"
+  },
+  {
+    "id": "20f14219-bc2c-4f1b-93d9-227b5906b1de",
+    "email": "alla00@gmail.com",
+    "phone": null,
+    "password": "$2b$10$sZSY1auU71h9H67RAOVEUeZHCp9.q5XmiDPdIi4CB9JyH3kDcSV2.",
+    "name": "Alla",
+    "role": "user",
+    "blocked": false,
+    "createdAt": "2026-01-15T10:40:07.865Z"
+  },
+  {
+    "id": "cf26dea1-bfe4-4471-af26-6f9473142cd4",
+    "email": null,
+    "phone": "+37499123456",
+    "password": "$2b$10$rYI7UQE7ml2WKAIMu7TDdukQv1GtVR4oA9qIQz6bwj0DrHjjBbVhe",
+    "name": "Alla Phone",
+    "role": "user",
+    "blocked": false,
+    "createdAt": "2026-01-15T10:40:49.083Z"
+  },
+  {
+    "id": "1768478201573",
+    "email": "alla112@gmail.com",
+    "phone": null,
+    "name": "Alla",
+    "password": "$2b$10$hgSali7alGuC0jw0AvmNAe0qJartg2UMIJZ.KGw5DebPyHjBq4lwm",
+    "role": "user"
+  },
+  {
+    "id": "1768511693506",
+    "email": null,
+    "phone": "098319033",
+    "name": "Alla",
+    "password": "$2b$10$aRzEjCwtky/77H8wa4LO8.KO6GytbkYn9ZvULLsgnWL05wpv2AkqW",
+    "role": "user"
+  }
+]
